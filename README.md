@@ -1,6 +1,7 @@
 # todolistnisa
 
 > vue js to do list
+> login,to do list sayfaları pages klasöründe ve header component klasöründe.
 
 ## Build Setup
 
